@@ -1,57 +1,127 @@
 [
   {
-    "host": "tinkoff.ru",
+    "host": "lukoil.com",
+    "nameserverHost": "db24-ns2.srv.lukoil.com.",
+    "nameserverIp": "95.171.232.172"
+  },
+  {
+    "host": "lukoil.com",
+    "nameserverHost": "gltb-ns2.srv.lukoil.com.",
+    "nameserverIp": "95.171.236.174"
+  },
+  {
+    "host": "lukoil.com",
+    "nameserverHost": "gltb-ns1.srv.lukoil.com.",
+    "nameserverIp": "95.171.236.173"
+  },
+  {
+    "host": "lukoil.com",
+    "nameserverHost": "srt-ns1.srv.lukoil.com.",
+    "nameserverIp": "95.171.228.169"
+  },
+  {
+    "host": "lukoil.com",
+    "nameserverHost": "srt-ns2.srv.lukoil.com.",
+    "nameserverIp": "95.171.228.170"
+  },
+  {
+    "host": "lukoil.com",
+    "nameserverHost": "db24-ns1.srv.lukoil.com.",
+    "nameserverIp": "95.171.232.171"
+  },
+  {
+    "host": "lukoil.com",
+    "nameserverHost": "ns2.corp.lukoil.com.",
+    "nameserverIp": "82.118.131.110"
+  },
+  {
+    "host": "lukoil.com",
+    "nameserverHost": "ns1.corp.lukoil.com.",
+    "nameserverIp": "212.38.97.3"
+  },
+  {
+    "host": "gazprom.ru",
     "nameserverHost": "ns8-l2.nic.ru.",
     "nameserverIp": "91.217.21.1"
   },
   {
-    "host": "tinkoff.ru",
+    "host": "gazprom.ru",
+    "nameserverHost": "ns8-cloud.nic.ru.",
+    "nameserverIp": "193.232.146.1"
+  },
+  {
+    "host": "gazprom.ru",
+    "nameserverHost": "ns2.gazsvyaz.ru.",
+    "nameserverIp": "217.151.128.35"
+  },
+  {
+    "host": "gazprom.ru",
     "nameserverHost": "ns4-l2.nic.ru.",
     "nameserverIp": "91.217.20.1"
   },
   {
-    "host": "tinkoff.ru",
-    "nameserverHost": "ns1.tinkoff.ru.",
-    "nameserverIp": "178.248.239.11"
+    "host": "gazprom.ru",
+    "nameserverHost": "ns.gazprom.ru.",
+    "nameserverIp": "217.151.130.34"
   },
   {
-    "host": "tinkoff.ru",
-    "nameserverHost": "ns2.tinkoff.ru.",
-    "nameserverIp": "185.169.154.98"
+    "host": "gazprom.ru",
+    "nameserverHost": "ns1.gazsvyaz.ru.",
+    "nameserverIp": "217.151.128.34"
   },
   {
-    "host": "sber.ru",
-    "nameserverHost": "ns1.sberbank.ru.",
-    "nameserverIp": "194.54.14.186"
+    "host": "gazprom.ru",
+    "nameserverHost": "ns4-cloud.nic.ru.",
+    "nameserverIp": "91.217.20.1"
   },
   {
-    "host": "sber.ru",
-    "nameserverHost": "tmp2.sberbank.ru.",
-    "nameserverIp": "84.252.147.129"
+    "host": "nlmk.com",
+    "nameserverHost": "ns8-l2.nic.ru.",
+    "nameserverIp": "91.217.21.1"
   },
   {
-    "host": "sber.ru",
-    "nameserverHost": "ns3.gldn.net.",
-    "nameserverIp": "194.67.7.1"
+    "host": "nlmk.com",
+    "nameserverHost": "ns.nlmk.ru.",
+    "nameserverIp": "81.20.194.3"
   },
   {
-    "host": "sber.ru",
-    "nameserverHost": "nsq.sberbank.ru.",
-    "nameserverIp": "178.248.238.46"
+    "host": "nlmk.com",
+    "nameserverHost": "ns4-l2.nic.ru.",
+    "nameserverIp": "91.217.20.1"
   },
   {
-    "host": "sber.ru",
-    "nameserverHost": "tmp1.sberbank.ru.",
-    "nameserverIp": "84.252.147.128"
+    "host": "tektorg.ru",
+    "nameserverHost": "ns3-l2.nic.ru.",
+    "nameserverIp": "193.232.146.1"
   },
   {
-    "host": "sber.ru",
-    "nameserverHost": "ns4.sberbank.ru.",
-    "nameserverIp": "84.252.147.119"
+    "host": "tektorg.ru",
+    "nameserverHost": "ns4-l2.nic.ru.",
+    "nameserverIp": "91.217.20.1"
   },
   {
-    "host": "sber.ru",
-    "nameserverHost": "ns2.gldn.net.",
-    "nameserverIp": "194.67.2.109"
+    "host": "tektorg.ru",
+    "nameserverHost": "nsti.tektorg.ru.",
+    "nameserverIp": "95.128.178.46"
+  },
+  {
+    "host": "tektorg.ru",
+    "nameserverHost": "nsds.tektorg.ru.",
+    "nameserverIp": "185.9.231.98"
+  },
+  {
+    "host": "tektorg.ru",
+    "nameserverHost": "ns8-l2.nic.ru.",
+    "nameserverIp": "91.217.21.1"
+  },
+  {
+    "host": "tektorg.ru",
+    "nameserverHost": "ns4-cloud.nic.ru.",
+    "nameserverIp": "91.217.20.1"
+  },
+  {
+    "host": "tektorg.ru",
+    "nameserverHost": "ns8-cloud.nic.ru.",
+    "nameserverIp": "193.232.146.1"
   }
 ]
