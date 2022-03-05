@@ -1,0 +1,57 @@
+[
+  {
+    "host": "tinkoff.ru",
+    "nameserverHost": "ns8-l2.nic.ru.",
+    "nameserverIp": "91.217.21.1"
+  },
+  {
+    "host": "tinkoff.ru",
+    "nameserverHost": "ns4-l2.nic.ru.",
+    "nameserverIp": "91.217.20.1"
+  },
+  {
+    "host": "tinkoff.ru",
+    "nameserverHost": "ns1.tinkoff.ru.",
+    "nameserverIp": "178.248.239.11"
+  },
+  {
+    "host": "tinkoff.ru",
+    "nameserverHost": "ns2.tinkoff.ru.",
+    "nameserverIp": "185.169.154.98"
+  },
+  {
+    "host": "sber.ru",
+    "nameserverHost": "ns1.sberbank.ru.",
+    "nameserverIp": "194.54.14.186"
+  },
+  {
+    "host": "sber.ru",
+    "nameserverHost": "tmp2.sberbank.ru.",
+    "nameserverIp": "84.252.147.129"
+  },
+  {
+    "host": "sber.ru",
+    "nameserverHost": "ns3.gldn.net.",
+    "nameserverIp": "194.67.7.1"
+  },
+  {
+    "host": "sber.ru",
+    "nameserverHost": "nsq.sberbank.ru.",
+    "nameserverIp": "178.248.238.46"
+  },
+  {
+    "host": "sber.ru",
+    "nameserverHost": "tmp1.sberbank.ru.",
+    "nameserverIp": "84.252.147.128"
+  },
+  {
+    "host": "sber.ru",
+    "nameserverHost": "ns4.sberbank.ru.",
+    "nameserverIp": "84.252.147.119"
+  },
+  {
+    "host": "sber.ru",
+    "nameserverHost": "ns2.gldn.net.",
+    "nameserverIp": "194.67.2.109"
+  }
+]
