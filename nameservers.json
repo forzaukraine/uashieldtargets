@@ -36,23 +36,18 @@
   },
   {
     "host": "mashprocess.ru",
-    "nameserverHost": "ns1.spaceweb.ru.",
-    "nameserverIp": "77.222.50.244"
-  },
-  {
-    "host": "mashprocess.ru",
     "nameserverHost": "ns2.spaceweb.ru.",
     "nameserverIp": "89.111.160.68"
   },
   {
     "host": "mashprocess.ru",
-    "nameserverHost": "ns3.spaceweb.pro.",
-    "nameserverIp": "77.222.51.244"
+    "nameserverHost": "ns1.spaceweb.ru.",
+    "nameserverIp": "77.222.50.244"
   },
   {
-    "host": "sogruz.ru",
-    "nameserverHost": "ns3.timeweb.org.",
-    "nameserverIp": "92.53.116.200"
+    "host": "mashprocess.ru",
+    "nameserverHost": "ns3.spaceweb.pro.",
+    "nameserverIp": "77.222.51.244"
   },
   {
     "host": "sogruz.ru",
@@ -63,6 +58,11 @@
     "host": "sogruz.ru",
     "nameserverHost": "ns2.timeweb.ru.",
     "nameserverIp": "92.53.98.100"
+  },
+  {
+    "host": "sogruz.ru",
+    "nameserverHost": "ns3.timeweb.org.",
+    "nameserverIp": "92.53.116.200"
   },
   {
     "host": "sogruz.ru",
@@ -101,13 +101,13 @@
   },
   {
     "host": "pgk.ru",
-    "nameserverHost": "ns4-l2.nic.ru.",
-    "nameserverIp": "91.217.20.1"
+    "nameserverHost": "ns8-l2.nic.ru.",
+    "nameserverIp": "91.217.21.1"
   },
   {
     "host": "pgk.ru",
-    "nameserverHost": "ns8-l2.nic.ru.",
-    "nameserverIp": "91.217.21.1"
+    "nameserverHost": "ns4-l2.nic.ru.",
+    "nameserverIp": "91.217.20.1"
   },
   {
     "host": "pgk.ru",
@@ -116,26 +116,11 @@
   },
   {
     "host": "pgk.ru",
-    "nameserverHost": "ns3-l2.nic.ru.",
-    "nameserverIp": "193.232.146.1"
+    "nameserverHost": "ns4-cloud.nic.ru.",
+    "nameserverIp": "91.217.20.1"
   },
   {
     "host": "pgk.ru",
-    "nameserverHost": "ns4-cloud.nic.ru.",
-    "nameserverIp": "91.217.20.1"
-  },
-  {
-    "host": "trcont.com",
-    "nameserverHost": "ns4-cloud.nic.ru.",
-    "nameserverIp": "91.217.20.1"
-  },
-  {
-    "host": "trcont.com",
-    "nameserverHost": "ns4-l2.nic.ru.",
-    "nameserverIp": "91.217.20.1"
-  },
-  {
-    "host": "trcont.com",
     "nameserverHost": "ns3-l2.nic.ru.",
     "nameserverIp": "193.232.146.1"
   },
@@ -150,14 +135,19 @@
     "nameserverIp": "193.232.146.1"
   },
   {
-    "host": "fesco.ru",
-    "nameserverHost": "ns8-l2.nic.ru.",
-    "nameserverIp": "91.217.21.1"
+    "host": "trcont.com",
+    "nameserverHost": "ns4-l2.nic.ru.",
+    "nameserverIp": "91.217.20.1"
   },
   {
-    "host": "fesco.ru",
+    "host": "trcont.com",
     "nameserverHost": "ns3-l2.nic.ru.",
     "nameserverIp": "193.232.146.1"
+  },
+  {
+    "host": "trcont.com",
+    "nameserverHost": "ns4-cloud.nic.ru.",
+    "nameserverIp": "91.217.20.1"
   },
   {
     "host": "fesco.ru",
@@ -166,8 +156,18 @@
   },
   {
     "host": "fesco.ru",
+    "nameserverHost": "ns3-l2.nic.ru.",
+    "nameserverIp": "193.232.146.1"
+  },
+  {
+    "host": "fesco.ru",
     "nameserverHost": "ns4-l2.nic.ru.",
     "nameserverIp": "91.217.20.1"
+  },
+  {
+    "host": "fesco.ru",
+    "nameserverHost": "ns8-l2.nic.ru.",
+    "nameserverIp": "91.217.21.1"
   },
   {
     "host": "fesco.ru",
@@ -181,12 +181,17 @@
   },
   {
     "host": "trasko.ru",
+    "nameserverHost": "ns4-l2.nic.ru.",
+    "nameserverIp": "91.217.20.1"
+  },
+  {
+    "host": "trasko.ru",
     "nameserverHost": "ns8-l2.nic.ru.",
     "nameserverIp": "91.217.21.1"
   },
   {
     "host": "trasko.ru",
-    "nameserverHost": "ns4-l2.nic.ru.",
+    "nameserverHost": "ns4-cloud.nic.ru.",
     "nameserverIp": "91.217.20.1"
   },
   {
@@ -195,8 +200,8 @@
     "nameserverIp": "193.232.146.1"
   },
   {
-    "host": "trasko.ru",
-    "nameserverHost": "ns4-cloud.nic.ru.",
+    "host": "baikalsr.ru",
+    "nameserverHost": "ns4-l2.nic.ru.",
     "nameserverIp": "91.217.20.1"
   },
   {
@@ -206,8 +211,13 @@
   },
   {
     "host": "baikalsr.ru",
-    "nameserverHost": "ns4-l2.nic.ru.",
-    "nameserverIp": "91.217.20.1"
+    "nameserverHost": "ns8-l2.nic.ru.",
+    "nameserverIp": "91.217.21.1"
+  },
+  {
+    "host": "baikalsr.ru",
+    "nameserverHost": "ns8-cloud.nic.ru.",
+    "nameserverIp": "193.232.146.1"
   },
   {
     "host": "baikalsr.ru",
@@ -216,18 +226,8 @@
   },
   {
     "host": "baikalsr.ru",
-    "nameserverHost": "ns8-cloud.nic.ru.",
-    "nameserverIp": "193.232.146.1"
-  },
-  {
-    "host": "baikalsr.ru",
     "nameserverHost": "ns3-l2.nic.ru.",
     "nameserverIp": "193.232.146.1"
-  },
-  {
-    "host": "baikalsr.ru",
-    "nameserverHost": "ns8-l2.nic.ru.",
-    "nameserverIp": "91.217.21.1"
   },
   {
     "host": "itecorp.ru",
@@ -235,14 +235,9 @@
     "nameserverIp": "95.213.155.243"
   },
   {
-    "host": "itecorp.ru",
-    "nameserverHost": "ns2.itecorp.ru.",
-    "nameserverIp": "88.119.246.176"
-  },
-  {
-    "host": "itecorp.ru",
-    "nameserverHost": "ns1.itecorp.ru.",
-    "nameserverIp": "92.61.35.183"
+    "host": "dentro.ru",
+    "nameserverHost": "ns2.majordomo.ru.",
+    "nameserverIp": "78.108.88.164"
   },
   {
     "host": "dentro.ru",
@@ -255,9 +250,9 @@
     "nameserverIp": "78.108.80.80"
   },
   {
-    "host": "dentro.ru",
-    "nameserverHost": "ns2.majordomo.ru.",
-    "nameserverIp": "78.108.88.164"
+    "host": "nrg-tk.ru",
+    "nameserverHost": "dns1.yandex.net.",
+    "nameserverIp": "213.180.204.213"
   },
   {
     "host": "nrg-tk.ru",
@@ -265,26 +260,6 @@
     "nameserverIp": "93.158.134.213"
   },
   {
-    "host": "nrg-tk.ru",
-    "nameserverHost": "dns1.yandex.net.",
-    "nameserverIp": "213.180.204.213"
-  },
-  {
-    "host": "aerodar.ru",
-    "nameserverHost": "ns3-l2.nic.ru.",
-    "nameserverIp": "193.232.146.1"
-  },
-  {
-    "host": "aerodar.ru",
-    "nameserverHost": "ns4-l2.nic.ru.",
-    "nameserverIp": "91.217.20.1"
-  },
-  {
-    "host": "aerodar.ru",
-    "nameserverHost": "ns4-cloud.nic.ru.",
-    "nameserverIp": "91.217.20.1"
-  },
-  {
     "host": "aerodar.ru",
     "nameserverHost": "ns8-cloud.nic.ru.",
     "nameserverIp": "193.232.146.1"
@@ -295,9 +270,19 @@
     "nameserverIp": "91.217.21.1"
   },
   {
-    "host": "del-ko.ru",
-    "nameserverHost": "ns11.hoster.ru.",
-    "nameserverIp": "31.28.20.108"
+    "host": "aerodar.ru",
+    "nameserverHost": "ns4-l2.nic.ru.",
+    "nameserverIp": "91.217.20.1"
+  },
+  {
+    "host": "aerodar.ru",
+    "nameserverHost": "ns3-l2.nic.ru.",
+    "nameserverIp": "193.232.146.1"
+  },
+  {
+    "host": "aerodar.ru",
+    "nameserverHost": "ns4-cloud.nic.ru.",
+    "nameserverIp": "91.217.20.1"
   },
   {
     "host": "del-ko.ru",
@@ -305,14 +290,9 @@
     "nameserverIp": "195.128.50.221"
   },
   {
-    "host": "skif-cargo.ru",
-    "nameserverHost": "ns4-cloud.nic.ru.",
-    "nameserverIp": "91.217.20.1"
-  },
-  {
-    "host": "skif-cargo.ru",
-    "nameserverHost": "ns4-l2.nic.ru.",
-    "nameserverIp": "91.217.20.1"
+    "host": "del-ko.ru",
+    "nameserverHost": "ns11.hoster.ru.",
+    "nameserverIp": "31.28.20.108"
   },
   {
     "host": "skif-cargo.ru",
@@ -321,18 +301,28 @@
   },
   {
     "host": "skif-cargo.ru",
+    "nameserverHost": "ns8-cloud.nic.ru.",
+    "nameserverIp": "193.232.146.1"
+  },
+  {
+    "host": "skif-cargo.ru",
+    "nameserverHost": "ns4-cloud.nic.ru.",
+    "nameserverIp": "91.217.20.1"
+  },
+  {
+    "host": "skif-cargo.ru",
     "nameserverHost": "ns8-l2.nic.ru.",
     "nameserverIp": "91.217.21.1"
   },
   {
     "host": "skif-cargo.ru",
-    "nameserverHost": "ns8-cloud.nic.ru.",
-    "nameserverIp": "193.232.146.1"
+    "nameserverHost": "ns4-l2.nic.ru.",
+    "nameserverIp": "91.217.20.1"
   },
   {
     "host": "nordw.ru",
-    "nameserverHost": "ns1.timeweb.ru.",
-    "nameserverIp": "92.53.116.26"
+    "nameserverHost": "ns4.timeweb.org.",
+    "nameserverIp": "92.53.98.42"
   },
   {
     "host": "nordw.ru",
@@ -341,18 +331,13 @@
   },
   {
     "host": "nordw.ru",
-    "nameserverHost": "ns3.timeweb.org.",
-    "nameserverIp": "92.53.116.200"
+    "nameserverHost": "ns1.timeweb.ru.",
+    "nameserverIp": "92.53.116.26"
   },
   {
     "host": "nordw.ru",
-    "nameserverHost": "ns4.timeweb.org.",
-    "nameserverIp": "92.53.98.42"
-  },
-  {
-    "host": "oooyata.ru",
-    "nameserverHost": "dns1.yandex.net.",
-    "nameserverIp": "213.180.204.213"
+    "nameserverHost": "ns3.timeweb.org.",
+    "nameserverIp": "92.53.116.200"
   },
   {
     "host": "oooyata.ru",
@@ -360,14 +345,9 @@
     "nameserverIp": "93.158.134.213"
   },
   {
-    "host": "perevozka-konteinerov.ru",
-    "nameserverHost": "ns1.jino.ru.",
-    "nameserverIp": "217.107.34.200"
-  },
-  {
-    "host": "perevozka-konteinerov.ru",
-    "nameserverHost": "ns4.jino.ru.",
-    "nameserverIp": "81.177.139.205"
+    "host": "oooyata.ru",
+    "nameserverHost": "dns1.yandex.net.",
+    "nameserverIp": "213.180.204.213"
   },
   {
     "host": "perevozka-konteinerov.ru",
@@ -378,6 +358,16 @@
     "host": "perevozka-konteinerov.ru",
     "nameserverHost": "ns2.jino.ru.",
     "nameserverIp": "195.161.62.86"
+  },
+  {
+    "host": "perevozka-konteinerov.ru",
+    "nameserverHost": "ns4.jino.ru.",
+    "nameserverIp": "81.177.139.205"
+  },
+  {
+    "host": "perevozka-konteinerov.ru",
+    "nameserverHost": "ns1.jino.ru.",
+    "nameserverIp": "217.107.34.200"
   },
   {
     "host": "mashandling.ru",
@@ -391,28 +381,73 @@
   },
   {
     "host": "garant-logistika.ru",
-    "nameserverHost": "ns2.hosting.reg.ru.",
-    "nameserverIp": "37.140.192.58"
+    "nameserverHost": "ns1.hosting.reg.ru.",
+    "nameserverIp": "31.31.194.251"
   },
   {
     "host": "garant-logistika.ru",
-    "nameserverHost": "ns2.hosting.reg.ru.",
-    "nameserverIp": "37.140.192.160"
+    "nameserverHost": "ns1.hosting.reg.ru.",
+    "nameserverIp": "37.140.192.93"
   },
   {
     "host": "garant-logistika.ru",
-    "nameserverHost": "ns2.hosting.reg.ru.",
-    "nameserverIp": "37.140.193.120"
+    "nameserverHost": "ns1.hosting.reg.ru.",
+    "nameserverIp": "31.31.196.61"
   },
   {
     "host": "garant-logistika.ru",
-    "nameserverHost": "ns2.hosting.reg.ru.",
-    "nameserverIp": "37.140.194.37"
+    "nameserverHost": "ns1.hosting.reg.ru.",
+    "nameserverIp": "31.31.194.245"
   },
   {
     "host": "garant-logistika.ru",
-    "nameserverHost": "ns2.hosting.reg.ru.",
-    "nameserverIp": "194.67.73.7"
+    "nameserverHost": "ns1.hosting.reg.ru.",
+    "nameserverIp": "31.31.196.52"
+  },
+  {
+    "host": "garant-logistika.ru",
+    "nameserverHost": "ns1.hosting.reg.ru.",
+    "nameserverIp": "37.140.193.121"
+  },
+  {
+    "host": "garant-logistika.ru",
+    "nameserverHost": "ns1.hosting.reg.ru.",
+    "nameserverIp": "31.31.196.37"
+  },
+  {
+    "host": "garant-logistika.ru",
+    "nameserverHost": "ns1.hosting.reg.ru.",
+    "nameserverIp": "37.140.192.20"
+  },
+  {
+    "host": "garant-logistika.ru",
+    "nameserverHost": "ns1.hosting.reg.ru.",
+    "nameserverIp": "194.58.91.38"
+  },
+  {
+    "host": "garant-logistika.ru",
+    "nameserverHost": "ns1.hosting.reg.ru.",
+    "nameserverIp": "31.31.196.180"
+  },
+  {
+    "host": "garant-logistika.ru",
+    "nameserverHost": "ns1.hosting.reg.ru.",
+    "nameserverIp": "194.67.73.9"
+  },
+  {
+    "host": "garant-logistika.ru",
+    "nameserverHost": "ns1.hosting.reg.ru.",
+    "nameserverIp": "194.67.73.6"
+  },
+  {
+    "host": "garant-logistika.ru",
+    "nameserverHost": "ns1.hosting.reg.ru.",
+    "nameserverIp": "31.31.198.177"
+  },
+  {
+    "host": "garant-logistika.ru",
+    "nameserverHost": "ns1.hosting.reg.ru.",
+    "nameserverIp": "37.140.196.144"
   },
   {
     "host": "garant-logistika.ru",
@@ -461,73 +496,33 @@
   },
   {
     "host": "garant-logistika.ru",
-    "nameserverHost": "ns1.hosting.reg.ru.",
-    "nameserverIp": "31.31.196.180"
+    "nameserverHost": "ns2.hosting.reg.ru.",
+    "nameserverIp": "37.140.192.58"
   },
   {
     "host": "garant-logistika.ru",
-    "nameserverHost": "ns1.hosting.reg.ru.",
-    "nameserverIp": "37.140.193.121"
+    "nameserverHost": "ns2.hosting.reg.ru.",
+    "nameserverIp": "37.140.192.160"
   },
   {
     "host": "garant-logistika.ru",
-    "nameserverHost": "ns1.hosting.reg.ru.",
-    "nameserverIp": "31.31.198.177"
+    "nameserverHost": "ns2.hosting.reg.ru.",
+    "nameserverIp": "37.140.193.120"
   },
   {
     "host": "garant-logistika.ru",
-    "nameserverHost": "ns1.hosting.reg.ru.",
-    "nameserverIp": "194.67.73.6"
+    "nameserverHost": "ns2.hosting.reg.ru.",
+    "nameserverIp": "37.140.194.37"
   },
   {
     "host": "garant-logistika.ru",
-    "nameserverHost": "ns1.hosting.reg.ru.",
-    "nameserverIp": "37.140.192.20"
+    "nameserverHost": "ns2.hosting.reg.ru.",
+    "nameserverIp": "194.67.73.7"
   },
   {
-    "host": "garant-logistika.ru",
-    "nameserverHost": "ns1.hosting.reg.ru.",
-    "nameserverIp": "31.31.196.37"
-  },
-  {
-    "host": "garant-logistika.ru",
-    "nameserverHost": "ns1.hosting.reg.ru.",
-    "nameserverIp": "31.31.194.251"
-  },
-  {
-    "host": "garant-logistika.ru",
-    "nameserverHost": "ns1.hosting.reg.ru.",
-    "nameserverIp": "37.140.196.144"
-  },
-  {
-    "host": "garant-logistika.ru",
-    "nameserverHost": "ns1.hosting.reg.ru.",
-    "nameserverIp": "194.67.73.9"
-  },
-  {
-    "host": "garant-logistika.ru",
-    "nameserverHost": "ns1.hosting.reg.ru.",
-    "nameserverIp": "31.31.194.245"
-  },
-  {
-    "host": "garant-logistika.ru",
-    "nameserverHost": "ns1.hosting.reg.ru.",
-    "nameserverIp": "31.31.196.61"
-  },
-  {
-    "host": "garant-logistika.ru",
-    "nameserverHost": "ns1.hosting.reg.ru.",
-    "nameserverIp": "31.31.196.52"
-  },
-  {
-    "host": "garant-logistika.ru",
-    "nameserverHost": "ns1.hosting.reg.ru.",
-    "nameserverIp": "37.140.192.93"
-  },
-  {
-    "host": "garant-logistika.ru",
-    "nameserverHost": "ns1.hosting.reg.ru.",
-    "nameserverIp": "194.58.91.38"
+    "host": "flagmanamur.ru",
+    "nameserverHost": "ns4-cloud.nic.ru.",
+    "nameserverIp": "91.217.20.1"
   },
   {
     "host": "flagmanamur.ru",
@@ -550,11 +545,6 @@
     "nameserverIp": "193.232.146.1"
   },
   {
-    "host": "flagmanamur.ru",
-    "nameserverHost": "ns4-cloud.nic.ru.",
-    "nameserverIp": "91.217.20.1"
-  },
-  {
     "host": "tranzit-auto.ru",
     "nameserverHost": "dns2.yandex.net.",
     "nameserverIp": "93.158.134.213"
@@ -563,6 +553,11 @@
     "host": "tranzit-auto.ru",
     "nameserverHost": "dns1.yandex.net.",
     "nameserverIp": "213.180.204.213"
+  },
+  {
+    "host": "sztcom.ru",
+    "nameserverHost": "ns4.nic.ru.",
+    "nameserverIp": "194.226.96.8"
   },
   {
     "host": "sztcom.ru",
@@ -575,19 +570,14 @@
     "nameserverIp": "193.232.130.14"
   },
   {
-    "host": "sztcom.ru",
-    "nameserverHost": "ns4.nic.ru.",
-    "nameserverIp": "194.226.96.8"
-  },
-  {
     "host": "magistrans.ru",
     "nameserverHost": "ns2.timeweb.ru.",
     "nameserverIp": "92.53.98.100"
   },
   {
     "host": "magistrans.ru",
-    "nameserverHost": "ns4.timeweb.org.",
-    "nameserverIp": "92.53.98.42"
+    "nameserverHost": "ns3.timeweb.org.",
+    "nameserverIp": "92.53.116.200"
   },
   {
     "host": "magistrans.ru",
@@ -596,7 +586,7 @@
   },
   {
     "host": "magistrans.ru",
-    "nameserverHost": "ns3.timeweb.org.",
-    "nameserverIp": "92.53.116.200"
+    "nameserverHost": "ns4.timeweb.org.",
+    "nameserverIp": "92.53.98.42"
   }
 ]
