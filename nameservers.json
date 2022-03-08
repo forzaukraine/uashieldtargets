@@ -1,82 +1,575 @@
 [
   {
-    "host": "advego.com",
-    "nameserverHost": "ns2.advego.com.",
-    "nameserverIp": "95.163.127.68",
+    "host": "tass.ru",
+    "nameserverHost": "ns8-l2.nic.ru.",
+    "nameserverIp": "91.217.21.1",
     "country": "RU",
     "type": "A",
-    "ttl": 150
+    "ttl": 300
   },
   {
-    "host": "advego.com",
-    "nameserverHost": "ns1.advego.com.",
-    "nameserverIp": "95.163.127.67",
+    "host": "tass.ru",
+    "nameserverHost": "ns2.tass.ru.",
+    "nameserverIp": "194.28.239.12",
+    "country": "RU",
+    "type": "A",
+    "ttl": 120
+  },
+  {
+    "host": "tass.ru",
+    "nameserverHost": "ns1.tass.ru.",
+    "nameserverIp": "194.28.239.11",
+    "country": "RU",
+    "type": "A",
+    "ttl": 120
+  },
+  {
+    "host": "tass.ru",
+    "nameserverHost": "ns4-l2.nic.ru.",
+    "nameserverIp": "91.217.20.1",
+    "country": "RU",
+    "type": "A",
+    "ttl": 300
+  },
+  {
+    "host": "kp.ru",
+    "nameserverHost": "ns8-cloud.nic.ru.",
+    "nameserverIp": "193.232.146.1",
+    "country": "RU",
+    "type": "A",
+    "ttl": 60
+  },
+  {
+    "host": "kp.ru",
+    "nameserverHost": "ns8-cloud.nic.ru.",
+    "nameserverIp": "2a01:3f1:862::53",
+    "country": "SE",
+    "type": "AAAA",
+    "ttl": 300
+  },
+  {
+    "host": "kp.ru",
+    "nameserverHost": "ns4-cloud.nic.ru.",
+    "nameserverIp": "91.217.20.1",
+    "country": "RU",
+    "type": "A",
+    "ttl": 60
+  },
+  {
+    "host": "kp.ru",
+    "nameserverHost": "ns4-cloud.nic.ru.",
+    "nameserverIp": "2a01:3f0:400::62",
+    "country": "SE",
+    "type": "AAAA",
+    "ttl": 300
+  },
+  {
+    "host": "kp.ru",
+    "nameserverHost": "ns8-l2.nic.ru.",
+    "nameserverIp": "91.217.21.1",
+    "country": "RU",
+    "type": "A",
+    "ttl": 300
+  },
+  {
+    "host": "kp.ru",
+    "nameserverHost": "ns4-l2.nic.ru.",
+    "nameserverIp": "91.217.20.1",
+    "country": "RU",
+    "type": "A",
+    "ttl": 300
+  },
+  {
+    "host": "kp.ru",
+    "nameserverHost": "nsq.kp.ru.",
+    "nameserverIp": "178.248.235.238",
+    "country": "RU",
+    "type": "A",
+    "ttl": 300
+  },
+  {
+    "host": "rg.ru",
+    "nameserverHost": "ns4.rg.ru.",
+    "nameserverIp": "194.190.37.15",
+    "country": "RU",
+    "type": "A",
+    "ttl": 126
+  },
+  {
+    "host": "rg.ru",
+    "nameserverHost": "ns5.rg.ru.",
+    "nameserverIp": "194.190.23.68",
+    "country": "RU",
+    "type": "A",
+    "ttl": 300
+  },
+  {
+    "host": "rg.ru",
+    "nameserverHost": "ns.rg.ru.",
+    "nameserverIp": "81.26.145.150",
+    "country": "RU",
+    "type": "A",
+    "ttl": 300
+  },
+  {
+    "host": "rg.ru",
+    "nameserverHost": "ns2.rg.ru.",
+    "nameserverIp": "194.190.23.69",
+    "country": "RU",
+    "type": "A",
+    "ttl": 300
+  },
+  {
+    "host": "rg.ru",
+    "nameserverHost": "ns3.rg.ru.",
+    "nameserverIp": "194.190.37.16",
+    "country": "RU",
+    "type": "A",
+    "ttl": 125
+  },
+  {
+    "host": "tsargrad.tv",
+    "nameserverHost": "ns8-l2.nic.ru.",
+    "nameserverIp": "91.217.21.1",
+    "country": "RU",
+    "type": "A",
+    "ttl": 123
+  },
+  {
+    "host": "tsargrad.tv",
+    "nameserverHost": "ns4-cloud.nic.ru.",
+    "nameserverIp": "91.217.20.1",
+    "country": "RU",
+    "type": "A",
+    "ttl": 60
+  },
+  {
+    "host": "tsargrad.tv",
+    "nameserverHost": "ns4-cloud.nic.ru.",
+    "nameserverIp": "2a01:3f0:400::62",
+    "country": "SE",
+    "type": "AAAA",
+    "ttl": 300
+  },
+  {
+    "host": "tsargrad.tv",
+    "nameserverHost": "ns8-cloud.nic.ru.",
+    "nameserverIp": "193.232.146.1",
+    "country": "RU",
+    "type": "A",
+    "ttl": 59
+  },
+  {
+    "host": "tsargrad.tv",
+    "nameserverHost": "ns8-cloud.nic.ru.",
+    "nameserverIp": "2a01:3f1:862::53",
+    "country": "SE",
+    "type": "AAAA",
+    "ttl": 299
+  },
+  {
+    "host": "tsargrad.tv",
+    "nameserverHost": "ns1.tsargrad.tv.",
+    "nameserverIp": "77.238.100.195",
+    "country": "RU",
+    "type": "A",
+    "ttl": 60
+  },
+  {
+    "host": "tsargrad.tv",
+    "nameserverHost": "ns2.tsargrad.tv.",
+    "nameserverIp": "188.64.160.163",
+    "country": "RU",
+    "type": "A",
+    "ttl": 60
+  },
+  {
+    "host": "tsargrad.tv",
+    "nameserverHost": "ns3-l2.nic.ru.",
+    "nameserverIp": "193.232.146.1",
+    "country": "RU",
+    "type": "A",
+    "ttl": 300
+  },
+  {
+    "host": "tsargrad.tv",
+    "nameserverHost": "ns4-l2.nic.ru.",
+    "nameserverIp": "91.217.20.1",
+    "country": "RU",
+    "type": "A",
+    "ttl": 125
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns2.reg.ru.",
+    "nameserverIp": "176.99.13.12",
+    "country": "RU",
+    "type": "A",
+    "ttl": 21426
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns2.reg.ru.",
+    "nameserverIp": "176.99.13.14",
+    "country": "RU",
+    "type": "A",
+    "ttl": 21426
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns2.reg.ru.",
+    "nameserverIp": "176.99.13.16",
+    "country": "RU",
+    "type": "A",
+    "ttl": 21426
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns2.reg.ru.",
+    "nameserverIp": "176.99.13.18",
+    "country": "RU",
+    "type": "A",
+    "ttl": 21426
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns2.reg.ru.",
+    "nameserverIp": "194.58.117.12",
+    "country": "RU",
+    "type": "A",
+    "ttl": 21426
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns2.reg.ru.",
+    "nameserverIp": "194.58.117.14",
+    "country": "RU",
+    "type": "A",
+    "ttl": 21426
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns2.reg.ru.",
+    "nameserverIp": "194.58.117.16",
+    "country": "RU",
+    "type": "A",
+    "ttl": 21426
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns2.reg.ru.",
+    "nameserverIp": "194.58.117.18",
+    "country": "RU",
+    "type": "A",
+    "ttl": 21426
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns2.reg.ru.",
+    "nameserverIp": "194.67.73.75",
+    "country": "RU",
+    "type": "A",
+    "ttl": 21426
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns2.reg.ru.",
+    "nameserverIp": "194.67.73.76",
+    "country": "RU",
+    "type": "A",
+    "ttl": 21426
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns2.reg.ru.",
+    "nameserverIp": "2a00:f940:5::190",
+    "country": "RU",
+    "type": "AAAA",
+    "ttl": 21426
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns1.reg.ru.",
+    "nameserverIp": "176.99.13.11",
+    "country": "RU",
+    "type": "A",
+    "ttl": 21600
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns1.reg.ru.",
+    "nameserverIp": "176.99.13.13",
+    "country": "RU",
+    "type": "A",
+    "ttl": 21600
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns1.reg.ru.",
+    "nameserverIp": "176.99.13.15",
+    "country": "RU",
+    "type": "A",
+    "ttl": 21600
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns1.reg.ru.",
+    "nameserverIp": "176.99.13.17",
+    "country": "RU",
+    "type": "A",
+    "ttl": 21600
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns1.reg.ru.",
+    "nameserverIp": "194.58.117.11",
+    "country": "RU",
+    "type": "A",
+    "ttl": 21600
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns1.reg.ru.",
+    "nameserverIp": "194.58.117.13",
+    "country": "RU",
+    "type": "A",
+    "ttl": 21600
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns1.reg.ru.",
+    "nameserverIp": "194.58.117.15",
+    "country": "RU",
+    "type": "A",
+    "ttl": 21600
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns1.reg.ru.",
+    "nameserverIp": "194.58.117.17",
+    "country": "RU",
+    "type": "A",
+    "ttl": 21600
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns1.reg.ru.",
+    "nameserverIp": "194.67.73.73",
+    "country": "RU",
+    "type": "A",
+    "ttl": 21600
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns1.reg.ru.",
+    "nameserverIp": "194.67.73.74",
+    "country": "RU",
+    "type": "A",
+    "ttl": 21600
+  },
+  {
+    "host": "news-front.info",
+    "nameserverHost": "ns1.reg.ru.",
+    "nameserverIp": "2a00:f940:4::47",
+    "country": "RU",
+    "type": "AAAA",
+    "ttl": 21600
+  },
+  {
+    "host": "rossaprimavera.ru",
+    "nameserverHost": "dns2.yandex.net.",
+    "nameserverIp": "93.158.134.213",
+    "country": "RU",
+    "type": "A",
+    "ttl": 237
+  },
+  {
+    "host": "rossaprimavera.ru",
+    "nameserverHost": "dns2.yandex.net.",
+    "nameserverIp": "2a02:6b8:0:1::213",
+    "country": "RU",
+    "type": "AAAA",
+    "ttl": 237
+  },
+  {
+    "host": "rossaprimavera.ru",
+    "nameserverHost": "dns1.yandex.net.",
+    "nameserverIp": "213.180.204.213",
     "country": "RU",
     "type": "A",
     "ttl": 600
   },
   {
-    "host": "kwork.ru",
-    "nameserverHost": "ns-1416.awsdns-49.org.",
-    "nameserverIp": "205.251.197.136",
-    "country": "US",
-    "type": "A",
-    "ttl": 4612
-  },
-  {
-    "host": "kwork.ru",
-    "nameserverHost": "ns-1416.awsdns-49.org.",
-    "nameserverIp": "2600:9000:5305:8800::1",
-    "country": "US",
+    "host": "rossaprimavera.ru",
+    "nameserverHost": "dns1.yandex.net.",
+    "nameserverIp": "2a02:6b8::213",
+    "country": "RU",
     "type": "AAAA",
-    "ttl": 3
+    "ttl": 600
   },
   {
-    "host": "kwork.ru",
-    "nameserverHost": "ns-1915.awsdns-47.co.uk.",
-    "nameserverIp": "205.251.199.123",
-    "country": "US",
+    "host": "iz.ru",
+    "nameserverHost": "ns4-l2.nic.ru.",
+    "nameserverIp": "91.217.20.1",
+    "country": "RU",
     "type": "A",
-    "ttl": 45161
+    "ttl": 298
   },
   {
-    "host": "kwork.ru",
-    "nameserverHost": "ns-1915.awsdns-47.co.uk.",
-    "nameserverIp": "2600:9000:5307:7b00::1",
-    "country": "US",
-    "type": "AAAA",
-    "ttl": 45161
-  },
-  {
-    "host": "kwork.ru",
-    "nameserverHost": "ns-89.awsdns-11.com.",
-    "nameserverIp": "205.251.192.89",
-    "country": "US",
+    "host": "iz.ru",
+    "nameserverHost": "ns1.ren-tv.com.",
+    "nameserverIp": "185.231.232.13",
+    "country": "RU",
     "type": "A",
-    "ttl": 45210
+    "ttl": 21600
   },
   {
-    "host": "kwork.ru",
-    "nameserverHost": "ns-89.awsdns-11.com.",
-    "nameserverIp": "2600:9000:5300:5900::1",
-    "country": "US",
-    "type": "AAAA",
-    "ttl": 45210
-  },
-  {
-    "host": "kwork.ru",
-    "nameserverHost": "ns-963.awsdns-56.net.",
-    "nameserverIp": "205.251.195.195",
-    "country": "US",
+    "host": "iz.ru",
+    "nameserverHost": "ns8-cloud.nic.ru.",
+    "nameserverIp": "193.232.146.1",
+    "country": "RU",
     "type": "A",
-    "ttl": 46413
+    "ttl": 58
   },
   {
-    "host": "kwork.ru",
-    "nameserverHost": "ns-963.awsdns-56.net.",
-    "nameserverIp": "2600:9000:5303:c300::1",
-    "country": "US",
+    "host": "iz.ru",
+    "nameserverHost": "ns8-cloud.nic.ru.",
+    "nameserverIp": "2a01:3f1:862::53",
+    "country": "SE",
     "type": "AAAA",
-    "ttl": 46413
+    "ttl": 298
+  },
+  {
+    "host": "iz.ru",
+    "nameserverHost": "ns4-cloud.nic.ru.",
+    "nameserverIp": "91.217.20.1",
+    "country": "RU",
+    "type": "A",
+    "ttl": 59
+  },
+  {
+    "host": "iz.ru",
+    "nameserverHost": "ns4-cloud.nic.ru.",
+    "nameserverIp": "2a01:3f0:400::62",
+    "country": "SE",
+    "type": "AAAA",
+    "ttl": 299
+  },
+  {
+    "host": "iz.ru",
+    "nameserverHost": "ns8-l2.nic.ru.",
+    "nameserverIp": "91.217.21.1",
+    "country": "RU",
+    "type": "A",
+    "ttl": 123
+  },
+  {
+    "host": "ngs.ru",
+    "nameserverHost": "ns1.ngs.ru.",
+    "nameserverIp": "195.19.220.238",
+    "country": "RU",
+    "type": "A",
+    "ttl": 3600
+  },
+  {
+    "host": "ngs.ru",
+    "nameserverHost": "ns.hsdrn.ru.",
+    "nameserverIp": "195.93.186.191",
+    "country": "RU",
+    "type": "A",
+    "ttl": 900
+  },
+  {
+    "host": "m.lenta.ru",
+    "nameserverHost": "lenta.ru.",
+    "nameserverIp": "178.248.235.122",
+    "country": "RU",
+    "type": "A",
+    "ttl": 120
+  },
+  {
+    "host": "m.lenta.ru",
+    "nameserverHost": "lenta.ru.",
+    "type": "SOA"
+  },
+  {
+    "host": "m.lenta.ru",
+    "nameserverHost": "ns3.rambler.ru.",
+    "nameserverIp": "81.19.83.8",
+    "country": "RU",
+    "type": "A",
+    "ttl": 3237
+  },
+  {
+    "host": "m.lenta.ru",
+    "nameserverHost": "ns5.rambler.ru.",
+    "nameserverIp": "81.19.83.9",
+    "country": "RU",
+    "type": "A",
+    "ttl": 3600
+  },
+  {
+    "host": "m.lenta.ru",
+    "nameserverHost": "ns4.rambler.ru.",
+    "nameserverIp": "81.19.73.9",
+    "country": "RU",
+    "type": "A",
+    "ttl": 3425
+  },
+  {
+    "host": "m.lenta.ru",
+    "nameserverHost": "ns4.rambler.ru.",
+    "nameserverIp": "2a02:6b0:6:2::2:53",
+    "country": "RU",
+    "type": "AAAA",
+    "ttl": 3425
+  },
+  {
+    "host": "m.lenta.ru",
+    "nameserverHost": "ns2.rambler.ru.",
+    "nameserverIp": "81.19.73.8",
+    "country": "RU",
+    "type": "A",
+    "ttl": 3238
+  },
+  {
+    "host": "m.lenta.ru",
+    "nameserverHost": "ns2.rambler.ru.",
+    "nameserverIp": "2a02:6b0:6:2::1:53",
+    "country": "RU",
+    "type": "AAAA",
+    "ttl": 3238
+  },
+  {
+    "host": "aif.ru",
+    "nameserverHost": "ns3-l2.nic.ru.",
+    "nameserverIp": "193.232.146.1",
+    "country": "RU",
+    "type": "A",
+    "ttl": 300
+  },
+  {
+    "host": "aif.ru",
+    "nameserverHost": "ns4-l2.nic.ru.",
+    "nameserverIp": "91.217.20.1",
+    "country": "RU",
+    "type": "A",
+    "ttl": 300
+  },
+  {
+    "host": "aif.ru",
+    "nameserverHost": "ns1.aif.ru.",
+    "nameserverIp": "93.191.8.24",
+    "country": "RU",
+    "type": "A",
+    "ttl": 60
+  },
+  {
+    "host": "aif.ru",
+    "nameserverHost": "ns2.aif.ru.",
+    "nameserverIp": "81.23.15.88",
+    "country": "RU",
+    "type": "A",
+    "ttl": 60
   }
 ]
